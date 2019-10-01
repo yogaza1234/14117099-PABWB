@@ -1,0 +1,14 @@
+hmtl,
+body,
+ul,
+ol {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font: 100% heltetica, sans-serif;
+  background-color: #efefef;
+}
+
+/*# sourceMappingURL=main.css.map */
